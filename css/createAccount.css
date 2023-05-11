@@ -1,0 +1,26 @@
+.card-page {
+  margin: auto;
+  width: 375px;
+  height: 667px;
+  background: #0d0210;
+  margin-top: 100px;
+  color: white;
+  padding: 20px 50px;
+}
+
+.logo-wrapper {
+  text-align: center;
+}
+
+.editColor {
+  background: #c9b7c7 !important;
+}
+
+::placeholder {
+  color: white !important;
+}
+
+img {
+  background: #c9b7c7;
+  border-radius: 5px;
+}
